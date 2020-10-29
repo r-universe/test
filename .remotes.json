@@ -1,12 +1,1 @@
-[
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "from": "curl"
-  },
-  {
-    "package": "webutils",
-    "url": "https://github.com/jeroen/webutils",
-    "from": "curl"
-  }
-]
+[]
