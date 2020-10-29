@@ -22,11 +22,11 @@
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
-[submodule "jsonlite"]
-	path = jsonlite
-	url = https://github.com/jeroen/jsonlite
-	shallow = true
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
+	shallow = true
+[submodule "webutils"]
+	path = webutils
+	url = https://github.com/jeroen/webutils
 	shallow = true
