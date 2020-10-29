@@ -1,1 +1,12 @@
-[{"package":"testthat","url":"https://github.com/r-lib/testthat","from":"curl"}]
+[
+  {
+    "package": "jsonlite",
+    "url": "https://github.com/jeroen/jsonlite",
+    "from": "curl"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "from": "curl"
+  }
+]
