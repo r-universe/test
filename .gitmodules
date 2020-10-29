@@ -22,3 +22,7 @@
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
