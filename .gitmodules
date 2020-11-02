@@ -22,3 +22,8 @@
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	shallow = true
+	subdir = pkg
