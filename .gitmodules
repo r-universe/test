@@ -27,3 +27,8 @@
 	url = https://github.com/markvanderloo/stringdist
 	shallow = true
 	subdir = pkg
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	shallow = true
+	subdir = r
