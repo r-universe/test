@@ -2,35 +2,28 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	shallow = true
-	branch = HEAD
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	shallow = true
-	branch = HEAD
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
 	shallow = true
-	branch = HEAD
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
 	shallow = true
-	branch = HEAD
 [submodule "RcppParallel"]
 	path = RcppParallel
 	url = https://github.com/rcppcore/rcppparallel
 	shallow = true
-	branch = HEAD
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
-	branch = HEAD
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
 	shallow = true
-	branch = HEAD
 	subdir = pkg
