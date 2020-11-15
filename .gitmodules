@@ -2,6 +2,7 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	shallow = true
+	branch = HEAD
 [submodule "jose"]
 	path = jose
 	url = https://github.com/jeroen/jose
