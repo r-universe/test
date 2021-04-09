@@ -13,22 +13,6 @@
 	url = https://github.com/jeroen/curl
 	shallow = true
 	branch = v4.2
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "haven"]
-	path = haven
-	url = https://github.com/tidyverse/haven
-	shallow = true
-[submodule "RcppParallel"]
-	path = RcppParallel
-	url = https://github.com/rcppcore/rcppparallel
-	shallow = true
-[submodule "RDieHarder"]
-	path = RDieHarder
-	url = https://github.com/eddelbuettel/rdieharder
-	shallow = true
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
