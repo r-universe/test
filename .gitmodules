@@ -18,11 +18,3 @@
 	url = https://github.com/markvanderloo/stringdist
 	shallow = true
 	subdir = pkg
-[submodule "rmarkdown"]
-	path = rmarkdown
-	url = https://github.com/rstudio/rmarkdown
-	shallow = true
-[submodule "tinytex"]
-	path = tinytex
-	url = https://github.com/yihui/tinytex
-	shallow = true
