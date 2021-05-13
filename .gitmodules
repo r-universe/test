@@ -9,15 +9,18 @@
 	shallow = true
 	branch = v0.2
 	registered = true
+	oncran = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	shallow = true
 	branch = v4.2
 	registered = true
+	oncran = true
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
