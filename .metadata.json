@@ -1,0 +1,14 @@
+[
+  {
+    "package": "jose",
+    "oncran": true
+  },
+  {
+    "package": "curl",
+    "oncran": true
+  },
+  {
+    "package": "stringdist",
+    "oncran": true
+  }
+]
