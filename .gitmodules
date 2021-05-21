@@ -7,7 +7,6 @@
 	path = jose
 	url = https://github.com/jeroen/jose
 	shallow = true
-	branch = v0.2
 	registered = true
 [submodule "curl"]
 	path = curl
