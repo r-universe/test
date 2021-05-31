@@ -21,3 +21,8 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "ggsegHO"]
+	path = ggsegHO
+	url = https://github.com/ggseg/ggsegHO
+	shallow = true
+	registered = true

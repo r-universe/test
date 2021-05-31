@@ -10,5 +10,8 @@
   {
     "package": "stringdist",
     "oncran": true
+  },
+  {
+    "package": "ggsegHO"
   }
 ]
