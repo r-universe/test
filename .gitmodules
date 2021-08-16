@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "jose"]
 	path = jose
-	url = https://github.com/jeroen/jose
+	url = https://github.com/r-lib/jose
 	shallow = true
 	branch = v1.1.0
 	registered = true
@@ -24,6 +24,11 @@
 [submodule "ggsegHO"]
 	path = ggsegHO
 	url = https://github.com/ggseg/ggsegHO
+	shallow = true
+	registered = true
+[submodule "hdf5r"]
+	path = hdf5r
+	url = https://github.com/hhoeflin/hdf5r
 	shallow = true
 	registered = true
 [submodule "ggseg"]
