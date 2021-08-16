@@ -28,7 +28,7 @@
 	registered = true
 [submodule "hdf5r"]
 	path = hdf5r
-	url = https://github.com/hhoeflin/hdf5r
+	url = https://github.com/jeroen/hdf5r
 	shallow = true
 	registered = true
 [submodule "ggseg"]

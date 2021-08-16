@@ -16,6 +16,6 @@
   },
   {
     "package": "hdf5r",
-    "oncran": true
+    "oncran": false
   }
 ]
