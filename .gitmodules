@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/demo-registry
 	shallow = true
 	branch = HEAD
+[submodule "sys"]
+	path = sys
+	url = https://github.com/jeroen/sys
+	shallow = true
+	registered = true
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose
