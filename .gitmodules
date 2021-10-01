@@ -8,6 +8,17 @@
 	url = https://github.com/jeroen/sys
 	shallow = true
 	registered = true
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/cran/gmp
+	shallow = true
+	registered = true
+[submodule "Rmpfr"]
+	path = Rmpfr
+	url = https://github.com/r-forge/rmpfr
+	shallow = true
+	subdir = pkg
+	registered = true
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose

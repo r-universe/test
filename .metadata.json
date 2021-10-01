@@ -4,6 +4,14 @@
     "oncran": true
   },
   {
+    "package": "gmp",
+    "oncran": false
+  },
+  {
+    "package": "Rmpfr",
+    "oncran": true
+  },
+  {
     "package": "jose",
     "oncran": true
   },
