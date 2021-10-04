@@ -1,5 +1,8 @@
 [
   {
+    "package": "wrongname"
+  },
+  {
     "package": "sys",
     "oncran": true
   },
