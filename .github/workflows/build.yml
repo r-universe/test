@@ -149,7 +149,7 @@ jobs:
   binaries:
     needs: [prepare, source]
     if: ${{ always() && needs.source.outputs.sourcepkg }}
-    runs-on: ${{ matrix.os }}-latest
+    runs-on: ${{ matrix.os}}-${{ matrix.os == 'windows' && 'latest' || '10.15' }}
     timeout-minutes: 60
     name: Build for ${{ matrix.os }} / R-${{ matrix.r }}
     strategy:
