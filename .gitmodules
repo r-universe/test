@@ -39,7 +39,7 @@
 	path = curl
 	url = https://github.com/jeroen/curl
 	shallow = true
-	branch = v4.2
+	branch = v4.3.2
 	registered = true
 [submodule "stringdist"]
 	path = stringdist
