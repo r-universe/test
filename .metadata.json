@@ -16,7 +16,7 @@
   },
   {
     "package": "Rmpfr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "jose",
@@ -28,7 +28,7 @@
   },
   {
     "package": "stringdist",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "ggsegHO"
