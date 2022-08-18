@@ -33,6 +33,7 @@
 	path = jose
 	url = https://github.com/r-lib/jose
 	shallow = true
+	release = true
 	branch = v1.2.0
 	registered = true
 [submodule "curl"]
