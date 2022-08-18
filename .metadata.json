@@ -21,7 +21,7 @@
   {
     "package": "jose",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "curl",
