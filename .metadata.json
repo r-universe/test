@@ -20,7 +20,8 @@
   },
   {
     "package": "jose",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "curl",
