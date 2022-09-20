@@ -20,7 +20,7 @@
   },
   {
     "package": "jose",
-    "oncran": false,
+    "oncran": true,
     "releasetag": true
   },
   {
