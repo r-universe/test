@@ -11,6 +11,9 @@ on:
         description: Which package or commit to build (default is HEAD commit)
         required: false
 
+name: Build package
+run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs.package) }}
+
 jobs:
   build:
     uses: r-universe-org/workflows/.github/workflows/build.yml@reusables
