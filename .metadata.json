@@ -1,33 +1,6 @@
 [
   {
-    "package": "rJava"
-  },
-  {
-    "package": "wrongname"
-  },
-  {
-    "package": "sys"
-  },
-  {
-    "package": "gmp"
-  },
-  {
-    "package": "Rmpfr"
-  },
-  {
     "package": "jose",
     "releasetag": true
-  },
-  {
-    "package": "curl"
-  },
-  {
-    "package": "stringdist"
-  },
-  {
-    "package": "ggsegHO"
-  },
-  {
-    "package": "hdf5r"
   }
 ]
