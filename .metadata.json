@@ -1,41 +1,33 @@
 [
   {
-    "package": "rJava",
-    "oncran": false
+    "package": "rJava"
   },
   {
     "package": "wrongname"
   },
   {
-    "package": "sys",
-    "oncran": true
+    "package": "sys"
   },
   {
-    "package": "gmp",
-    "oncran": false
+    "package": "gmp"
   },
   {
-    "package": "Rmpfr",
-    "oncran": true
+    "package": "Rmpfr"
   },
   {
     "package": "jose",
-    "oncran": true,
     "releasetag": true
   },
   {
-    "package": "curl",
-    "oncran": true
+    "package": "curl"
   },
   {
-    "package": "stringdist",
-    "oncran": true
+    "package": "stringdist"
   },
   {
     "package": "ggsegHO"
   },
   {
-    "package": "hdf5r",
-    "oncran": false
+    "package": "hdf5r"
   }
 ]
