@@ -1,70 +1,47 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
-	shallow = true
 	branch = HEAD
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/jeroen/rJava
-	shallow = true
-	registered = true
 [submodule "wrongname"]
 	path = wrongname
 	url = https://github.com/jeroen/jsonlite
-	shallow = true
-	registered = true
 [submodule "sys"]
 	path = sys
 	url = https://github.com/jeroen/sys
-	shallow = true
-	registered = true
 [submodule "gmp"]
 	path = gmp
 	url = https://github.com/cran/gmp
-	shallow = true
-	registered = true
 [submodule "Rmpfr"]
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose
-	shallow = true
 	branch = v1.2.0
-	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-	shallow = true
 	branch = v4.3.2
-	registered = true
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "ggsegHO"]
 	path = ggsegHO
 	url = https://github.com/ggseg/ggsegHO
-	shallow = true
-	registered = true
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/jeroen/hdf5r
-	shallow = true
 	branch = cranfix
-	registered = true
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggseg
-	shallow = true
 	registered = false
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/LCBC-UiO/ggseg3d
-	shallow = true
 	registered = false
