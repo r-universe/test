@@ -2,41 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
-[submodule "rJava"]
-	path = rJava
-	url = https://github.com/jeroen/rJava
-[submodule "wrongname"]
-	path = wrongname
-	url = https://github.com/jeroen/jsonlite
-[submodule "sys"]
-	path = sys
-	url = https://github.com/jeroen/sys
-[submodule "gmp"]
-	path = gmp
-	url = https://github.com/cran/gmp
 [submodule "Rmpfr"]
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
 	subdir = pkg
-[submodule "jose"]
-	path = jose
-	url = https://github.com/r-lib/jose
-	branch = v1.2.0
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	branch = v4.3.2
-[submodule "stringdist"]
-	path = stringdist
-	url = https://github.com/markvanderloo/stringdist
-	subdir = pkg
-[submodule "ggsegHO"]
-	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
-[submodule "hdf5r"]
-	path = hdf5r
-	url = https://github.com/jeroen/hdf5r
-	branch = cranfix
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggseg
@@ -45,3 +18,30 @@
 	path = ggseg3d
 	url = https://github.com/LCBC-UiO/ggseg3d
 	registered = false
+[submodule "ggsegHO"]
+	path = ggsegHO
+	url = https://github.com/ggseg/ggsegHO
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/cran/gmp
+[submodule "hdf5r"]
+	path = hdf5r
+	url = https://github.com/jeroen/hdf5r
+	branch = cranfix
+[submodule "jose"]
+	path = jose
+	url = https://github.com/r-lib/jose
+	branch = v1.2.0
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/jeroen/rJava
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
+[submodule "sys"]
+	path = sys
+	url = https://github.com/jeroen/sys
+[submodule "wrongname"]
+	path = wrongname
+	url = https://github.com/jeroen/jsonlite
