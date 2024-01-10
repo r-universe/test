@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
+[submodule "RcppParallel"]
+	path = RcppParallel
+	url = https://github.com/jeroen/RcppParallel
 [submodule "Rmpfr"]
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
@@ -34,9 +37,6 @@
 [submodule "luna"]
 	path = luna
 	url = https://github.com/jeroen/luna
-[submodule "lwgeom"]
-	path = lwgeom
-	url = https://github.com/jeroen/lwgeom
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/jeroen/rJava
