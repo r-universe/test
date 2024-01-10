@@ -24,10 +24,9 @@
 [submodule "gmp"]
 	path = gmp
 	url = https://github.com/cran/gmp
-[submodule "hdf5r"]
-	path = hdf5r
-	url = https://github.com/jeroen/hdf5r
-	branch = cranfix
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/jeroen/rigraph
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose
@@ -48,6 +47,3 @@
 [submodule "sys"]
 	path = sys
 	url = https://github.com/jeroen/sys
-[submodule "wrongname"]
-	path = wrongname
-	url = https://github.com/jeroen/jsonlite
