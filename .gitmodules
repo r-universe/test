@@ -15,6 +15,9 @@
 [submodule "bayou"]
 	path = bayou
 	url = https://github.com/jeroen/bayou
+[submodule "crc32c"]
+	path = crc32c
+	url = https://github.com/jeroen/crc32c
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
