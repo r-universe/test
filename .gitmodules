@@ -53,3 +53,7 @@
 [submodule "sys"]
 	path = sys
 	url = https://github.com/jeroen/sys
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/jeroen/TileDB-SOMA
+	subdir = apis/r
