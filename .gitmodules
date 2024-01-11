@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
+[submodule "Rhtslib"]
+	path = Rhtslib
+	url = https://github.com/jeroen/Rhtslib
 [submodule "Rmpfr"]
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
