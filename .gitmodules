@@ -2,13 +2,13 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
-[submodule "RcppParallel"]
-	path = RcppParallel
-	url = https://github.com/jeroen/RcppParallel
 [submodule "Rmpfr"]
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
 	subdir = pkg
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/jeroen/bayou
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
