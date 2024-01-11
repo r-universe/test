@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
+[submodule "Rhdf5lib"]
+	path = Rhdf5lib
+	url = https://github.com/jeroen/Rhdf5lib
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/jeroen/Rhtslib
