@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/demo-registry
 	branch = HEAD
-[submodule "MAPpoly"]
-	path = MAPpoly
-	url = https://github.com/jeroen/MAPpoly
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/jeroen/Rhdf5lib
@@ -46,6 +43,9 @@
 [submodule "luna"]
 	path = luna
 	url = https://github.com/jeroen/luna
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/jeroen/MAPpoly
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/jeroen/rJava
