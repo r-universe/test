@@ -43,6 +43,9 @@
 	path = jose
 	url = https://github.com/r-lib/jose
 	branch = v1.2.0
+[submodule "longears"]
+	path = longears
+	url = https://github.com/jeroen/longears
 [submodule "luna"]
 	path = luna
 	url = https://github.com/jeroen/luna
