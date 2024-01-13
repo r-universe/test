@@ -15,6 +15,9 @@
 [submodule "audio"]
 	path = audio
 	url = https://github.com/jeroen/audio
+[submodule "cubature"]
+	path = cubature
+	url = https://github.com/jeroen/cubature
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
