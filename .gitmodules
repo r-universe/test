@@ -12,6 +12,9 @@
 	path = Rmpfr
 	url = https://github.com/r-forge/rmpfr
 	subdir = pkg
+[submodule "audio"]
+	path = audio
+	url = https://github.com/jeroen/audio
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
