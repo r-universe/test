@@ -16,8 +16,8 @@
 	path = curl
 	url = https://github.com/jeroen/curl
 	branch = v4.3.2
-[submodule "first90release"]
-	path = first90release
+[submodule "first90"]
+	path = first90
 	url = https://github.com/jeroen/first90release
 [submodule "ggseg"]
 	path = ggseg
