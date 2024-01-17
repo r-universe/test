@@ -66,3 +66,6 @@
 	path = tiledbsoma
 	url = https://github.com/jeroen/TileDB-SOMA
 	subdir = apis/r
+[submodule "x13binary"]
+	path = x13binary
+	url = https://github.com/jeroen/x13binary
