@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/demo-registry
+	url = https://github.com/r-universe-org/test.r-universe.dev
 	branch = HEAD
 [submodule "NanoMethViz"]
 	path = NanoMethViz
