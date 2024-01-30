@@ -58,6 +58,9 @@
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/jeroen/rJava
+[submodule "rjags"]
+	path = rjags
+	url = https://github.com/jeroen/rjags
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
