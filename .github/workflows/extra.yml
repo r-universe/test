@@ -14,8 +14,8 @@ run-name: ${{ format('Running {0} on package ${1})', inputs.check, inputs.packag
 jobs:
   check:
     name: Run extra check
-    uses: r-universe/workflows/.github/workflows/${{ inputs.check }}.yml@test
+    uses: r-universe/workflows/.github/workflows/extra.yml@test
     with:
       package: ${{ inputs.package }}
-#      check: ${{ inputs.check }}
+      check: ${{ inputs.check }}
     secrets: inherit
