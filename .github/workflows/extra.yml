@@ -9,7 +9,7 @@ on:
         required: true
 
 name: Extra checks
-run-name: ${{ format('Running {0} on package ${1}', inputs.check, inputs.package) }}
+run-name: ${{ format('Running {0} on package {1}', inputs.check, inputs.package) }}
 
 jobs:
   check:
