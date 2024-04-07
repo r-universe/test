@@ -4,12 +4,12 @@ on:
       package:
         description: Which package to test
         required: true
-      platform:
+      which:
         type: choice
-        description: Which platform to run on
-        options: 
-        - windows-latest
-        - ubuntu-latest
+        description: Which reverse dependencies to check
+        options:
+        - strong
+        - most
 
 name: Extra checks
 run-name: ${{ format('Running {0} on package {1}', inputs.check, inputs.package) }}
@@ -20,5 +20,5 @@ jobs:
     uses: r-universe/workflows/.github/workflows/recheck.yml@test
     with:
       package: ${{ inputs.package }}
-      platform: ${{ inputs.platform }}
+      which: ${{ inputs.which }}
     secrets: inherit
