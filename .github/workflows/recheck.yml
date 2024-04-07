@@ -10,7 +10,6 @@ on:
         options: 
         - windows-latest
         - ubuntu-latest
-env:
 
 name: Extra checks
 run-name: ${{ format('Running {0} on package {1}', inputs.check, inputs.package) }}
