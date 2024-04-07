@@ -4,9 +4,6 @@ on:
       package:
         description: Which package to test
         required: true
-      check:
-        description: Which extra check to run
-        required: true
 
 name: Extra checks
 run-name: ${{ format('Running {0} on package {1}', inputs.check, inputs.package) }}
@@ -14,8 +11,7 @@ run-name: ${{ format('Running {0} on package {1}', inputs.check, inputs.package)
 jobs:
   check:
     name: Run extra check
-    uses: r-universe/workflows/.github/workflows/extra.yml@test
+    uses: r-universe/workflows/.github/workflows/recheck.yml@test
     with:
       package: ${{ inputs.package }}
-      check: ${{ inputs.check }}
     secrets: inherit
