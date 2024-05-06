@@ -1,5 +1,11 @@
 [
   {
+    "package": "audio.vadwebrtc",
+    "url": "https://github.com/bnosac/audio.vadwebrtc",
+    "via": ["audio.whisper"],
+    "from": "audio.whisper"
+  },
+  {
     "package": "ggseg",
     "url": "https://github.com/LCBC-UiO/ggseg",
     "via": ["ggsegHO"],
