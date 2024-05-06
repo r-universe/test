@@ -55,6 +55,9 @@
 [submodule "mappoly"]
 	path = mappoly
 	url = https://github.com/jeroen/MAPpoly
+[submodule "polars"]
+	path = polars
+	url = https://github.com/jeroen/r-polars
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/jeroen/rJava
