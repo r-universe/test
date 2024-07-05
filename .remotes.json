@@ -28,5 +28,12 @@
     "url": "https://github.com/LCBC-UiO/ggseg3d",
     "via": ["ggsegHO"],
     "from": "ggsegHO"
+  },
+  {
+    "package": "tinytest",
+    "url": "https://github.com/markvanderloo/tinytest",
+    "via": ["tidypolars"],
+    "subdir": "pkg",
+    "from": "tidypolars"
   }
 ]
