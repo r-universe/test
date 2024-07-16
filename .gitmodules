@@ -5,9 +5,6 @@
 [submodule "NanoMethViz"]
 	path = NanoMethViz
 	url = https://github.com/jeroen/NanoMethViz
-[submodule "Rhdf5lib"]
-	path = Rhdf5lib
-	url = https://github.com/jeroen/Rhdf5lib
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/jeroen/Rhtslib
@@ -28,6 +25,9 @@
 	path = curl
 	url = https://github.com/jeroen/curl
 	branch = v4.3.2
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/jeroen/data.table
 [submodule "first90"]
 	path = first90
 	url = https://github.com/jeroen/first90release
