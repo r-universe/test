@@ -18,18 +18,6 @@
     "from": "stantargets"
   },
   {
-    "package": "ggseg",
-    "url": "https://github.com/LCBC-UiO/ggseg",
-    "via": ["ggsegHO"],
-    "from": "ggsegHO"
-  },
-  {
-    "package": "ggseg3d",
-    "url": "https://github.com/LCBC-UiO/ggseg3d",
-    "via": ["ggsegHO"],
-    "from": "ggsegHO"
-  },
-  {
     "package": "tinytest",
     "url": "https://github.com/markvanderloo/tinytest",
     "via": ["tidypolars"],
