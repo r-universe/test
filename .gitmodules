@@ -2,35 +2,40 @@
 	path = .registry
 	url = https://github.com/r-universe-org/test.r-universe.dev
 	branch = HEAD
-[submodule "NanoMethViz"]
-	path = NanoMethViz
-	url = https://github.com/jeroen/NanoMethViz
-[submodule "Rhtslib"]
-	path = Rhtslib
-	url = https://github.com/jeroen/Rhtslib
-[submodule "Rmpfr"]
-	path = Rmpfr
-	url = https://github.com/r-forge/rmpfr
-	subdir = pkg
-[submodule "TestDesign"]
-	path = TestDesign
-	url = https://github.com/jeroen/TestDesign
-[submodule "audio"]
-	path = audio
-	url = https://github.com/jeroen/audio
-[submodule "cubature"]
-	path = cubature
-	url = https://github.com/jeroen/cubature
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
-	branch = v4.3.2
-[submodule "data.table"]
-	path = data.table
-	url = https://github.com/jeroen/data.table
-[submodule "first90"]
-	path = first90
-	url = https://github.com/jeroen/first90release
+[submodule "INLA"]
+	path = INLA
+	url = https://github.com/inbo/INLA
+	branch = *release
+[submodule "SBC"]
+	path = SBC
+	url = https://github.com/hyunjimoon/SBC
+	branch = *release
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/apache/arrow-adbc
+	branch = *release
+	subdir = r/adbcdrivermanager
+[submodule "adbcflightsql"]
+	path = adbcflightsql
+	url = https://github.com/apache/arrow-adbc
+	branch = *release
+	subdir = r/adbcflightsql
+[submodule "audio.whisper"]
+	path = audio.whisper
+	url = https://github.com/bnosac/audio.whisper
+	branch = *release
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	branch = *release
+[submodule "crew"]
+	path = crew
+	url = https://github.com/wlandau/crew
+	branch = *release
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+	branch = *release
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggseg
@@ -39,42 +44,71 @@
 	path = ggseg3d
 	url = https://github.com/LCBC-UiO/ggseg3d
 	registered = false
-[submodule "ggsegHO"]
-	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
-[submodule "gmp"]
-	path = gmp
-	url = https://github.com/cran/gmp
-[submodule "jose"]
-	path = jose
-	url = https://github.com/r-lib/jose
-	branch = v1.2.0
-[submodule "luna"]
-	path = luna
-	url = https://github.com/jeroen/luna
-[submodule "mappoly"]
-	path = mappoly
-	url = https://github.com/jeroen/MAPpoly
+[submodule "glaredb"]
+	path = glaredb
+	url = https://github.com/eitsupi/r-glaredb
+	branch = *release
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/nx10/httpgd
+	branch = *release
+[submodule "ichimoku"]
+	path = ichimoku
+	url = https://github.com/shikokuchuo/ichimoku
+	branch = *release
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
+	branch = *release
+[submodule "later"]
+	path = later
+	url = https://github.com/r-lib/later
+	branch = *release
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+	branch = *release
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/r-multiverse/multitools
+	branch = *release
+[submodule "multiverse.internals"]
+	path = multiverse.internals
+	url = https://github.com/r-multiverse/multiverse.internals
+	branch = *release
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	branch = *release
 [submodule "polars"]
 	path = polars
-	url = https://github.com/jeroen/r-polars
-[submodule "rJava"]
-	path = rJava
-	url = https://github.com/jeroen/rJava
-[submodule "rjags"]
-	path = rjags
-	url = https://github.com/jeroen/rjags
-[submodule "stringdist"]
-	path = stringdist
-	url = https://github.com/markvanderloo/stringdist
-	subdir = pkg
-[submodule "sys"]
-	path = sys
-	url = https://github.com/jeroen/sys
-[submodule "tiledbsoma"]
-	path = tiledbsoma
-	url = https://github.com/jeroen/TileDB-SOMA
-	subdir = apis/r
-[submodule "x13binary"]
-	path = x13binary
-	url = https://github.com/jeroen/x13binary
+	url = https://github.com/pola-rs/r-polars
+	branch = *release
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/shikokuchuo/secretbase
+	branch = *release
+[submodule "stantargets"]
+	path = stantargets
+	url = https://github.com/ropensci/stantargets
+	branch = *release
+[submodule "string2path"]
+	path = string2path
+	url = https://github.com/yutannihilation/string2path
+	branch = *release
+[submodule "targetsketch"]
+	path = targetsketch
+	url = https://github.com/wlandau/targetsketch
+	branch = *release
+[submodule "tidypolars"]
+	path = tidypolars
+	url = https://github.com/etiennebacher/tidypolars
+	branch = *release
+[submodule "tidytensor"]
+	path = tidytensor
+	url = https://github.com/oneilsh/tidytensor
+	branch = *release
+[submodule "zstdlite"]
+	path = zstdlite
+	url = https://github.com/coolbutuseless/zstdlite
+	branch = *release
