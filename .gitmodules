@@ -6,6 +6,9 @@
 	path = INLA
 	url = https://github.com/inbo/INLA
 	branch = v19.09.03
+[submodule "RQuantLib"]
+	path = RQuantLib
+	url = https://github.com/jeroen/rquantlib
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
