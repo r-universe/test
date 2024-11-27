@@ -59,7 +59,7 @@
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = v1.4.0
+	branch = v1.4.1
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
