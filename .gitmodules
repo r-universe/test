@@ -55,7 +55,7 @@
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = v2.1.3
+	branch = v2.1.4
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
