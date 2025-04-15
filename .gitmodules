@@ -36,6 +36,9 @@
 	path = crew
 	url = https://github.com/wlandau/crew
 	branch = 1.1.1
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/cran/data.table
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -80,6 +83,9 @@
 	path = polars
 	url = https://github.com/pola-rs/r-polars
 	branch = v0.22.4
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/cran/rJava
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
