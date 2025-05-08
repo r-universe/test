@@ -35,7 +35,7 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
-	branch = 1.1.1
+	branch = 1.1.2
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/cran/data.table
