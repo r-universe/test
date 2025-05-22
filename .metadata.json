@@ -40,10 +40,6 @@
     "releasetag": true
   },
   {
-    "package": "INLA",
-    "releasetag": true
-  },
-  {
     "package": "later",
     "releasetag": true
   },

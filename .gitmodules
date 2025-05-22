@@ -4,8 +4,8 @@
 	branch = HEAD
 [submodule "INLA"]
 	path = INLA
-	url = https://github.com/inbo/INLA
-	branch = v19.09.03
+	url = https://github.com/hrue/r-inla
+	subdir = rinla
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
