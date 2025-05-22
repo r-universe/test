@@ -43,6 +43,9 @@
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = v1.2.2
+[submodule "fmesher"]
+	path = fmesher
+	url = https://github.com/inlabru-org/fmesher
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
