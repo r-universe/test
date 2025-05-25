@@ -42,7 +42,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.2.2
+	branch = v1.3.0
 [submodule "fmesher"]
 	path = fmesher
 	url = https://github.com/inlabru-org/fmesher
