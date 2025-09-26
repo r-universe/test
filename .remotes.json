@@ -6,6 +6,12 @@
     "from": "stantargets"
   },
   {
+    "package": "V8",
+    "url": "https://github.com/jeroen/V8",
+    "via": ["minisvg"],
+    "from": "minisvg"
+  },
+  {
     "package": "audio.vadwebrtc",
     "url": "https://github.com/bnosac/audio.vadwebrtc",
     "via": ["audio.whisper"],
