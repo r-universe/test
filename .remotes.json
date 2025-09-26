@@ -8,12 +8,6 @@
   {
     "package": "V8",
     "url": "https://github.com/jeroen/V8",
-    "via": ["minisvg"],
-    "from": "minisvg"
-  },
-  {
-    "package": "V8",
-    "url": "https://github.com/jeroen/V8",
     "via": ["tomleditjs"],
     "from": "tomleditjs"
   },
