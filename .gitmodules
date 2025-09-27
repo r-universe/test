@@ -10,10 +10,6 @@
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
 	branch = v0.3.0
-[submodule "V8"]
-	path = V8
-	url = https://github.com/jeroen/V8
-	registered = false
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
