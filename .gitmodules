@@ -61,7 +61,7 @@
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = v2.1.4
+	branch = v2.2.0
 [submodule "jsonedit"]
 	path = jsonedit
 	url = https://github.com/r-lib/jsonedit
