@@ -27,7 +27,7 @@
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
-	branch = 0.4.1
+	branch = 0.4.2
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
