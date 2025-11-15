@@ -91,7 +91,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.5.0
+	branch = v1.6.0
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/cran/rJava
