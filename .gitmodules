@@ -42,7 +42,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.4.2
+	branch = v1.4.3
 [submodule "fmesher"]
 	path = fmesher
 	url = https://github.com/inlabru-org/fmesher
@@ -91,7 +91,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.6.0
+	branch = v1.7.0
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/cran/rJava
