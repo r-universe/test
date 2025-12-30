@@ -119,9 +119,9 @@
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
 	branch = v1.0.0
-[submodule "tomleditjs"]
-	path = tomleditjs
-	url = https://github.com/jeroen/tomleditjs
+[submodule "toml"]
+	path = toml
+	url = https://github.com/jeroen/toml
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
