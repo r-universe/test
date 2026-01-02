@@ -34,7 +34,6 @@ jobs:
 
   deploy:
     needs: prepare
-    name: Deploy to R-universe
     concurrency:
       group: deploy-${{ needs.prepare.outputs.package }}
       cancel-in-progress: true
