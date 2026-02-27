@@ -49,7 +49,7 @@
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
-	branch = v2.1.3
+	branch = v2.1.4
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
