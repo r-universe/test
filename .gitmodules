@@ -13,7 +13,7 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = *release
+	branch = apache-arrow-adbc-23
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
