@@ -71,7 +71,7 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	branch = v2.7.0
+	branch = v2.7.1
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/r-multiverse/multitools
@@ -83,7 +83,7 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-	branch = v1.9.0
+	branch = v1.9.1
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
