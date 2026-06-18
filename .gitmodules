@@ -67,7 +67,7 @@
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = *release
+	branch = v1.4.8
 [submodule "minisvg"]
 	path = minisvg
 	url = https://github.com/jeroen/minisvg
