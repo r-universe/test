@@ -68,6 +68,7 @@
 [submodule "jsonedit"]
 	path = jsonedit
 	url = https://github.com/r-lib/jsonedit
+	registered = false
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
