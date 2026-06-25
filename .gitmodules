@@ -42,6 +42,10 @@
 [submodule "fmesher"]
 	path = fmesher
 	url = https://github.com/inlabru-org/fmesher
+[submodule "gifski"]
+	path = gifski
+	url = https://github.com/r-rust/gifski
+	registered = false
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
