@@ -38,7 +38,7 @@ jobs:
     concurrency:
       group: deploy-${{ needs.prepare.outputs.package }}
       cancel-in-progress: true
-    uses: r-universe-org/workflows/.github/workflows/deploy.yml@v3
+    uses: r-universe-org/workflows/.github/workflows/deploy.yml@test
     with:
       package: ${{ inputs.package }}
     secrets:
