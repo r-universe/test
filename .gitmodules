@@ -13,12 +13,12 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = apache-arrow-adbc-24
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = apache-arrow-adbc-24
 	subdir = r/adbcflightsql
 [submodule "audio.whisper"]
 	path = audio.whisper
@@ -38,7 +38,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.5.4.3
+	branch = v1.5.5
 [submodule "fmesher"]
 	path = fmesher
 	url = https://github.com/inlabru-org/fmesher
