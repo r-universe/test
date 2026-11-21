@@ -99,6 +99,9 @@
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/cran/rJava
+[submodule "rjags"]
+	path = rjags
+	url = https://github.com/jags/rjags
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
